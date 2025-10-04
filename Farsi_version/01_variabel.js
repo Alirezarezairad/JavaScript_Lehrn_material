@@ -10,6 +10,7 @@ console.log(name);
 //let
 let lastName = "Mahdi";
 lastName = "hosseini";
+lastName = "hossein";
 console.log(lastName);
 
 //const
